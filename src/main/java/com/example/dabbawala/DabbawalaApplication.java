@@ -8,7 +8,6 @@ public class DabbawalaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DabbawalaApplication.class, args);
-//		yash
 	}
 
 }
